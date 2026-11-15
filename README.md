@@ -68,11 +68,12 @@ docker compose down
 | # | Challenge | Topic |
 |---|---|---|
 | 01 | [Score Board](writeups/juice-shop/01-score-board.md) | Security through obscurity, Broken Access Control |
+| 02 | [DOM XSS](writeups/juice-shop/02-dom-xss.md) | XSS, Injection |
 
 ## 🗺️ Roadmap
 
 - [x] Docker + OWASP Juice Shop
-- [ ] More Juice Shop writeups (OWASP Top 10)
+- [ ] More Juice Shop writeups (OWASP Top 10) – 2 done
 - [ ] DVWA
 - [ ] Kali Linux VM
 - [ ] Wazuh SIEM + log analysis
